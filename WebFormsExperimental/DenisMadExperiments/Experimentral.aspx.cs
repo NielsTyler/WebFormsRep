@@ -13,7 +13,7 @@ namespace WebFormsExperimental.DenisMadExperiments
         {
             if (!IsPostBack)
             {
-                MultiView1.ActiveViewIndex = 0;
+                MultiView1.ActiveViewIndex = 1;
             }
         }
 

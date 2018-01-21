@@ -13,6 +13,7 @@ namespace WebFormsExperimental.DenisMadExperiments
         {
             if (!IsPostBack)
             {
+                //main branch(was = 1)
                 MultiView1.ActiveViewIndex = 1;
             }
         }

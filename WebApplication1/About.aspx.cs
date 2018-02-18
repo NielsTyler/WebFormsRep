@@ -11,10 +11,10 @@ namespace WebApplication1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-		//Hello from first guy!
+		//Hello from second guy!
         }
 
-	private String FirstPersonMethod()
+	private int FirstPersonMethod()
 	{
 	}
     }

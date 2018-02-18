@@ -14,7 +14,7 @@ namespace WebApplication1
 		//Hello from first guy!
         }
 
-	private String FirstPersonMethod()
+	private int FirstPersonMethod()
 	{
 	}
     }

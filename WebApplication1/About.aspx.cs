@@ -22,8 +22,7 @@ namespace WebApplication1
 	private void RebaseMethod1()
 	{
 		//Branch#1
-	}
-	
-	
+		//Branch#1 commit no2
+	}	
     }
 }

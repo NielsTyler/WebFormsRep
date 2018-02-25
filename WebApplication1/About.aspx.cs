@@ -14,8 +14,16 @@ namespace WebApplication1
 		//Hello from second guy!
         }
 
-	private int FirstPersonMethod()
+	private void FirstPersonMethod()
 	{
+		//Branch#1
 	}
+
+	private void RebaseMethod1()
+	{
+		//Branch#1
+	}
+	
+	
     }
 }
